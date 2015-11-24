@@ -1,0 +1,28 @@
+name: tbarbini
+favicon: null
+layout_spectrum: 0.7415179405361414
+typography_spectrum: 0.22259029280394316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.061784189427271485
+  lightness: 0.5319535923190415
+  saturation: 0.8287920199800283
+  rhythmicContrast: 0.5067977786529809
+purpose: []
